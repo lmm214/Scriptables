@@ -1,3 +1,5 @@
+![transparent-widget.JPEG](https://raw.githubusercontent.com/lmm214/Scriptables/main/screenshots/transparent-widget.JPEG)
+
 全“透明”占坑图！
 
 ### 快捷指令：用来切图
@@ -23,7 +25,7 @@
 
 <https://github.com/lmm214/Scriptables>
 
-![touming](https://lmm.elizen.me/images/2020/10/touming.jpg)
+![touming](https://raw.githubusercontent.com/lmm214/Scriptables/main/screenshots/touming.jpg)
 
 `TouMing.js` 第一次运行会要求选择背景图片，多个位置可通过 **复制、重命名** 再选择。
 
