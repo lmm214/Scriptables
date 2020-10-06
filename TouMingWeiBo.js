@@ -67,7 +67,6 @@ function createWidget(res) {
 
     w.addSpacer();
     w.spacing = 5;
-    w.presentSmall();
     return w;
   }
 }
